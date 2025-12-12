@@ -1,0 +1,11 @@
+# Python virtual environments
+myenv39/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+.vscode
