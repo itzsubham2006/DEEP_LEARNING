@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+mlxtend
+keras
+flask
+blinker
+click
+jinja2
