@@ -1,7 +1,7 @@
 # Python virtual environments
-.venv
+tf-gpu
 
-datasets
+datasets/
 
 
 # Byte-compiled / optimized / DLL files
