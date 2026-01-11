@@ -14,3 +14,6 @@ __pycache__/
 .vscode
 
 # some files
+
+PROJECTS/data/happy
+PROJECTS/data/sad
